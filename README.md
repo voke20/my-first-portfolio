@@ -1,11 +1,7 @@
 # My First Portfolio
 
-This is my personal portfolio website, hosted with GitHub Pages.
+This is my personal portfolio website. It contains my projects, images, and contact information.
 
 ## How to view
 
-Visit: https://voke20.github.io/my-first-portfolio/
-
-## About
-
-This site contains my projects, images, and contact information.
+You can view the site live on GitHub Pages (after setup) or by opening the HTML file in your browser.
