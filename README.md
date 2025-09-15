@@ -1,7 +1,3 @@
-# My First Portfolio
-
-This is my personal portfolio website. It contains my projects, images, and contact information.
-
-## How to view
-
-You can view the site live on GitHub Pages (after setup) or by opening the HTML file in your browser.
+# my-first-portfolio
+A personal portfolio website built with only HTML and CSS to test my growth.
+Note: This is not my personal portfolio
